@@ -4,7 +4,7 @@ An interactive AI chatbot that collects user input to generate JSON configuratio
 
 ## 🚀 Features
 
-- Conversational chatbot interface
+- Conversational chatbot with CLI interface
 - JSON generation for ETL pipelines
 - Supports MySQL and MongoDB
 - Integration-ready with Apache Airflow
