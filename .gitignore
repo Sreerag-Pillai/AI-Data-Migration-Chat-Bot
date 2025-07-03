@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Airflow logs and plugins
+logs/
+plugins/*.log
+*.log
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# JSON files with secrets or generated configs
+*.json
+
+# Ignore local test files or outputs
+/output/
+*.db
